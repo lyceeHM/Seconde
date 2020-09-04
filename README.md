@@ -7,5 +7,5 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyceeHM/Seconde/master)
 <br>
-:white_square_button: <h2>Chapitre 1 : Les nombres</h2>
+:white_square_button: <b>Chapitre 1 : Les nombres</b>
 
